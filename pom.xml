@@ -11,6 +11,7 @@
     <modules>
         <module>authenticator</module>
         <module>jdbcrealm</module>
+        <module>multirealm</module>
     </modules>
 
     <properties>
