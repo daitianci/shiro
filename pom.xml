@@ -12,6 +12,9 @@
         <module>authenticator</module>
         <module>jdbcrealm</module>
         <module>multirealm</module>
+        <module>servletweb</module>
+        <module>servletweb</module>
+        <module>servletweb</module>
     </modules>
 
     <properties>
