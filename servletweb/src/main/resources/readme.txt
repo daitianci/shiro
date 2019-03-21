@@ -1,0 +1,1 @@
+1、web.xml配置shiro拦截器，通过shiro.ini进行上下文配置的初始化
