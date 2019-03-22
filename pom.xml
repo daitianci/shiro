@@ -17,6 +17,7 @@
         <module>servletweb</module>
         <module>filterweb</module>
         <module>filterweb</module>
+        <module>jsptagweb</module>
     </modules>
 
     <properties>
