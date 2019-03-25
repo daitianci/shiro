@@ -18,6 +18,7 @@
         <module>filterweb</module>
         <module>filterweb</module>
         <module>jsptagweb</module>
+        <module>sessionweb</module>
     </modules>
 
     <properties>
